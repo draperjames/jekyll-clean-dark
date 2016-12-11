@@ -9,15 +9,15 @@ url: http://draperjames.github.io
 
 # For a project page here should be a project name. Otherwise (for user's/organizaion's page leave it empty)
 # baseurl: '/jekyll-clean-dark'
-baseurl: ''
+baseurl: /jekyll-clean-dark
 
-share:
-  facebook: true
-  twitter: true
-  gplus: true
-  linkedin: true
-  pinterest: true
-  email: true
+# share:
+  # facebook: true
+  # twitter: true
+  # gplus: true
+  # linkedin: true
+  # pinterest: true
+  # email: true
 
 social:
   github: draperjames
