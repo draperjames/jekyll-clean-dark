@@ -11,19 +11,19 @@ description: Computational Biologist
 # baseurl: '/jekyll-clean-dark'
 baseurl: /jekyll-clean-dark
 
-# share:
-  # facebook: true
-  # twitter: true
-  # gplus: true
-  # linkedin: true
-  # pinterest: true
-  # email: true
+share:
+  facebook: true
+  twitter: true
+  gplus: true
+  linkedin: true
+  pinterest: true
+  email: true
 
 social:
   github: draperjames
-  stackoverflow: ''
+  stackoverflow: 3727854
   linkedin:
-  instagram: ''
+  instagram: false
   lastfm: ''
   rss: ''
 
